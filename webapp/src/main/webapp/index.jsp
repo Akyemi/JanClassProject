@@ -1,3 +1,18 @@
-<h1> RahulShettyAcademy.com Learning</h1>
-<h2> Learn QA Automation tools + Devops Tools CI/CD pipelines in course from Scratch</h2>
-<h2> Good Luck and we are almost done with the course.Thankyou</h2>
+<!DOCTYPE html>
+<html>
+<head>
+	<title>NEW PROJECT</title>
+</head>
+<body>
+	<style>
+    .ex{
+      background-color:"yellow"
+    }
+  </style>
+  <div class="ex">
+    <h1>MY FIRST PROJECT</h1>
+    <h2>This is not my work, im just testing automation<h2>
+	  <p style="color:red">This is also my very first paragragh.</p>
+  </div>
+</body>
+</html>
