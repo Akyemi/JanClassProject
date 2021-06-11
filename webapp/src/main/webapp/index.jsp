@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>NEW PROJECT</title>
+	<title>AUTOMATION</title>
 </head>
 <body>
 	<style>
@@ -10,8 +10,8 @@
     }
   </style>
   <div class="ex">
-    <h1>MY FIRST PROJECT</h1>
-    <h2>This is not my work, im just testing automation<h2>
+    <h1>MY FIRST AUTOMATION PROJECT</h1>
+    <h2>This is not my work, i'm just testing automation, GIT TO GITHUB, JENKINS TO TOMCAT<h2>
 	  <p style="color:red">This is also my very first paragragh.</p>
   </div>
 </body>
